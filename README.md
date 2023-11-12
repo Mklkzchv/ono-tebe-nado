@@ -17,4 +17,4 @@
 * Добавить анимацию на странице посредством CSS
 * Применение JS на странице
 
-Ссылка на проект: [GitHub](https://github.com/Mklkzchv/ono-tebe-nado).
+Ссылка на репозиторий - https://github.com/Mklkzchv/ono-tebe-nado.
