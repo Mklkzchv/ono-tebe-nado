@@ -16,7 +16,7 @@
 .menu {
     margin-top: 92px;
     margin-bottom: 92px;
-    min-height: 23px; 
+    min-height: 23px;
     min-width: 388px;
     align-items: center;
 }
@@ -81,6 +81,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24.3px;
+    text-decoration: none;
 }
 
 .jambotron {
@@ -373,17 +374,17 @@
 
 .footer {
     margin: 0 auto 90px auto;
-    min-height: 97px; 
+    min-height: 97px;
     max-width: 1340px;
     background-color: white;
-    display: flex; 
+    display: flex;
     align-items: start;
     justify-content: space-between;
 }
 
 .footer__menu {
     margin: 0;
-    min-height: 63px; 
+    min-height: 63px;
     max-width: 150px;
 }
 
@@ -407,7 +408,7 @@
 
 .footer__socials {
     margin: 0;
-    height: 48px; 
+    height: 48px;
     width: 240px;
     display: flex;
     justify-content: space-between;
@@ -415,7 +416,7 @@
 
 .footer__social {
     margin: 0;
-    height: 48px; 
+    height: 48px;
     width: 48px;
 }
 
